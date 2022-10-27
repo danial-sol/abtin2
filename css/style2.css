@@ -6,7 +6,7 @@ body {
 a {
   text-decoration: none;
   font-size: 1rem;
-  color: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .hero-image {
@@ -106,7 +106,7 @@ h1 {
   bottom: 7em;
   width: 1em;
   stroke: white;
-  animation: aarow 1s alternate-reverse infinite;
+  animation: aarow 1s alternate-reverse infinite 3s;
 }
 
 .collection img {
